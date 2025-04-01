@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(29, 91, 8) ;
+    color: rgb(165, 212, 36);
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
+table{
+    border:2px solid white;
